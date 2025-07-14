@@ -95,7 +95,4 @@ if __name__ == "__main__":
     print("2323213")
     result = crew.kickoff(inputs={"topic": "Flink and QuestDB for Streaming Platform"})
     print(result)
-    test = Markdown(result)
-    print(test)
-
 

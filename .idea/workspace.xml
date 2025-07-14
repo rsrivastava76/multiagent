@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544ea4a3-a6b9-4b9d-ad35-f2f93b685152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MultiAgentsCrewAI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer_support_crew.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    <list default="true" id="544ea4a3-a6b9-4b9d-ad35-f2f93b685152" name="Changes" comment="multi-agent version of CrewAI with tools and memory">
+      <change afterPath="$PROJECT_DIR$/Customer_Campaign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instructions/enterprise_solutions_framework.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instructions/small_business_engagement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instructions/tech_startups_outreach.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Experiment/MultiAgentsCrewAI/instructions"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Experiment\MultiAgentsCrewAI\instructions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Experiment\MultiAgentsCrewAI" />
       <recent name="D:\Experiment\MultiAgentsCrewAI\first" />
@@ -65,6 +67,28 @@
       <option name="presentableId" value="Default" />
       <updated>1752387675207</updated>
     </task>
+    <task id="LOCAL-00001" summary="first version of CrewAI">
+      <option name="closed" value="true" />
+      <created>1752426395918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752426395918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="multi-agent version of CrewAI with tools and memory">
+      <option name="closed" value="true" />
+      <created>1752426517466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752426517466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first version of CrewAI" />
+    <MESSAGE value="multi-agent version of CrewAI with tools and memory" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi-agent version of CrewAI with tools and memory" />
   </component>
 </project>
